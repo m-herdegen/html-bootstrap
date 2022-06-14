@@ -74,7 +74,7 @@ Let's start by using Bootstrap to create a [navbar](https://getbootstrap.com/doc
 ```
 There's a lot going on here. Our main parent component, `nav` holds all the HTML that makes up our navigation for the site. The important thing to note here are all the classes being applied to our different elements. Open this file in your browser to see a fully styled and positioned nav bar. We haven't written a single line of CSS yet. Instead, we tap into classes already defined by Bootstrap.
 
-The other great thing about Bootstrap is that it is responsize. Resize your window and you'll see that at a certain point the navbar items will dissapear and you'll have a new button appear in the upper right hand corner. Clicking it will create a drop down menu for all of our nav items.
+The other great thing about Bootstrap is that it is responsive. Resize your window and you'll see that at a certain point the navbar items will disappear and you'll have a new button appear in the upper right hand corner. Clicking it will create a drop down menu for all of our nav items.
 
 Let's add a few more Bootstrap elements to our HTML page.
 

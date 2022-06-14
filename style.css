@@ -1,0 +1,46 @@
+html{
+    display: flex;
+}
+body{
+    background-color: white;
+}
+#top-navbar{
+    background-color: rgb(255,241,230);
+    color: rgb(44, 41, 59);
+    font: sans-serif;
+    font-size: 14px;
+    justify-content: center;
+}
+#search-box{
+    justify-items: center;
+}
+#navbar-with-search *{
+    color: rgb(43, 15, 66)
+}
+#top-tabs *{
+    color: rgb(112,54,112)
+}
+#lower-navbar *{
+    background-color: rgb(43,15,66);
+    color: rgb(255, 255, 255)
+}
+#lower-navbar{
+    background-color: rgb(43,15,66);
+    font: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+#cards *{
+    background-color: rgb(43,15,66);
+    color: white;
+    font: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+#second-from-the-last *{
+    background-color: rgb(255,241,230);
+    color: rgb(43,15,66);
+}
+#second-from-the-last{
+    background-color: rgb(255,241,230); 
+}
